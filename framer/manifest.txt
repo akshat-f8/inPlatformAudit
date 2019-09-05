@@ -33,6 +33,15 @@ node_modules/framer/build/framer.api.json
 node_modules/framer/README.md
 node_modules/framer/LICENSE.md
 node_modules/framer/CHANGELOG.md
+node_modules/@framer/gregedmistonhulu.stateful-custom-button/tsconfig.json
+node_modules/@framer/gregedmistonhulu.stateful-custom-button/package.json
+node_modules/@framer/gregedmistonhulu.stateful-custom-button/metadata/icon.png
+node_modules/@framer/gregedmistonhulu.stateful-custom-button/metadata/artwork.png
+node_modules/@framer/gregedmistonhulu.stateful-custom-button/dist/index.js
+node_modules/@framer/gregedmistonhulu.stateful-custom-button/design/document.json
+node_modules/@framer/gregedmistonhulu.stateful-custom-button/code/canvas.tsx
+node_modules/@framer/gregedmistonhulu.stateful-custom-button/code/StatefulButton.tsx
+node_modules/@framer/gregedmistonhulu.stateful-custom-button/README.md
 node_modules/@framer/framer.device-skin-apple-macbook-pro/yarn.lock
 node_modules/@framer/framer.device-skin-apple-macbook-pro/package.json
 node_modules/@framer/framer.device-skin-apple-macbook-pro/index.ts
